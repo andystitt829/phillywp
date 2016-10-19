@@ -1,0 +1,13 @@
+footer {
+	width: 1140px;
+	height: 200px;
+	background: $black;
+	
+	a {
+		color: $blue;
+		text-decoration: none;
+	}
+	a:hover {
+		text-decoration: underline;
+	}
+}
